@@ -1,8 +1,11 @@
 ⭐ Recruiters & Hiring Managers: Watch the 5-minute demo video for a full walkthrough → [Demo Video Link]
+---
 
-# Enterprise IAM Lab – Identity Lifecycle & Access Governance Simulation
-## Overview
-...
+## 🔐 Identity & Access Management Portfolio Project
+Active Directory • Microsoft Entra ID • RBAC • MFA • Governance • PAM
+
+---
+
 # Enterprise IAM Lab – Identity Lifecycle & Access Governance Simulation
 
 ## Overview
