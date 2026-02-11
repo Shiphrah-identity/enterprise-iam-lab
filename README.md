@@ -1,4 +1,4 @@
-⭐ Recruiters & Hiring Managers: Watch the 5-minute demo video for a full walkthrough → **[Demo Video Link]**
+⭐ Recruiters & Hiring Managers: Watch the 5-minute demo video → **[Demo Video Link]**
 
 ---
 
@@ -45,3 +45,28 @@ The diagram below shows the identity flow and major components in this lab:
             │  Privileged Access  │
             │   (PIM / PAM)       │
             └─────────────────────┘
+## 🧰 Tech Stack
+
+- Active Directory (Windows Server)
+- Microsoft Entra ID (Azure AD)
+- Role-Based Access Control (RBAC)
+- Conditional Access & MFA
+- Access Governance
+- Privileged Access Management (PIM/PAM)
+- CyberArk
+
+## Skills Demonstrated
+
+- Identity provisioning & lifecycle automation
+- RBAC design and enforcement
+- Conditional Access & MFA
+- Governance & access reviews
+- Privileged access controls
+
+These skills align directly with real-world IAM Analyst and Cloud Security responsibilities in enterprise environments.
+
+## 📖 Full Walkthrough Article
+Read the detailed step-by-step lab breakdown on Dev.to:
+[]
+
+🎥 Full walkthrough: https://youtu.be/XXXXX
