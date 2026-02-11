@@ -12,6 +12,21 @@ Active Directory • Microsoft Entra ID • RBAC • MFA • Governance • PAM
 This project simulates a real-world enterprise Identity & Access Management (IAM) environment using Active Directory, Microsoft Entra ID, and governance controls.
 
 The goal was to gain hands-on experience with identity lifecycle management, RBAC, access reviews, and privileged access management — the same processes used in production environments.
+## Architecture Diagram
+
+```text
+[ HR System ]
+      |
+      v
+[ Entra ID / Azure AD ] -----> [ RBAC Groups ] -----> [ Applications ]
+      |
+      +----> Conditional Access + MFA
+      |
+      +----> PIM (Privileged Access)
+      |
+      +----> CyberArk Vault → Credential Rotation
+```
+
 ---
 ## Architecture
 On-Prem Active Directory → Microsoft Entra ID → Applications → Governance → PAM
