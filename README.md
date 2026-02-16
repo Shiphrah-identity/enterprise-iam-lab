@@ -70,3 +70,11 @@ Read the detailed step-by-step lab breakdown on Dev.to:
 []
 
 🎥 Full walkthrough: https://youtu.be/XXXXX
+
+## Artifacts
+- Identity Access Flow Diagram: docs/identity-access-flow.md
+- Access Review Checklist: governance/access-review-checklist.md
+- Evidence Pack:
+  - images/slide1-ou-structure.png
+  - images/slide2-rbac-assignment.png
+  - images/slide3-rbac-enforcement.png
