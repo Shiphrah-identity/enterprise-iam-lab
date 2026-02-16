@@ -69,6 +69,7 @@ These skills align directly with real-world IAM Analyst and Cloud Security respo
 Read the detailed step-by-step lab breakdown on Dev.to:
 https://dev.to/identity-with-shiph/building-an-enterprise-iam-lab-active-directory-entra-id-rbac-access-governance-3oof
 
+
 🎥 Full walkthrough: https://youtu.be/XXXXX
 
 ## Artifacts
